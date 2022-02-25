@@ -1,25 +1,25 @@
 {
     "continents": [
         {
-            "name": "Asia",
+            "name": "Asia"
         },
         {
-            "name": "Africa",
+            "name": "Africa"
         },
         {
-            "name": "Europe",
+            "name": "Europe"
         },
         {
-            "name": "North America",
+            "name": "North America"
         },
         {
-            "name": "South America",
+            "name": "South America"
         },
         {
-            "name": "Australia",
+            "name": "Australia"
         },
         {
-            "name": "Antarctica",
+            "name": "Antarctica"
         }
     ]
 }
